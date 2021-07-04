@@ -7,9 +7,11 @@
  - Such assembly is stacked repetitively to increase output voltage
 
 ## Pictures
+### Rotor
+![Rotor](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/d1f4b646e7cb547a9ce6f32c6641f8322a3e9f5d/pictures/rotor.jpg)
 ### Side Profile
-![Side Profile](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/5e737ee269fe861a9f7207ef0a8f1b47bc263bd1/20190306_104413.jpg)
+![Side Profile](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/main/pictures/side_profile.jpg)
 ### Canister End View
-![Canister End View](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/5e737ee269fe861a9f7207ef0a8f1b47bc263bd1/20190323_113657.jpg)
+![Canister End View](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/d1f4b646e7cb547a9ce6f32c6641f8322a3e9f5d/pictures/canister_end_view.jpg)
 ### Assembled Generator Drive Axel End View
-![Assembled Generator Drive Axel End View](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/5e737ee269fe861a9f7207ef0a8f1b47bc263bd1/20190327_083957.jpg)
+![Assembled Generator Drive Axel End View](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/d1f4b646e7cb547a9ce6f32c6641f8322a3e9f5d/pictures/assembled_generator_drive_axel_end_view.jpg)
