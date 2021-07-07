@@ -26,6 +26,8 @@
  - AWG 24 insulated conductor wire
 
 ## Pictures
+### Stator with Wave Form Conducting Coil
+![Stator with Wave Form Conducting Coil](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/d1f4b646e7cb547a9ce6f32c6641f8322a3e9f5d/pictures/stator_w_wave_form_conducting_coil.jpg)
 ### Rotor
 ![Rotor](https://github.com/mbstout/permanent-magnet-electrical-generator-/blob/d1f4b646e7cb547a9ce6f32c6641f8322a3e9f5d/pictures/rotor.jpg)
 ### Side Profile
