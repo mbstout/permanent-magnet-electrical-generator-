@@ -10,7 +10,7 @@
  - M8 all-thread rod
  - M8 Nuts
  - AWG 32 magnet wire
- - 0.93” pins and sockets
+ - 0.093” pins and sockets
  - 2” corner brackets
  - 6” ID PVC pipe
  - 8mm skateboard bearings
